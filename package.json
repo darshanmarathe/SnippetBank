@@ -1,0 +1,19 @@
+{
+  "name": "snippetbank",
+  "version": "0.0.1",
+  "description": "Snippet Management System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshanmarathe/SnippetBank.git"
+  },
+  "author": "Darshan Marathe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darshanmarathe/SnippetBank/issues"
+  },
+  "homepage": "https://github.com/darshanmarathe/SnippetBank#readme"
+}
