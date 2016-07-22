@@ -1,6 +1,6 @@
 {
   "name": "snippetbank",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Snippet Management System",
   "main": "app.js",
   "scripts": {
